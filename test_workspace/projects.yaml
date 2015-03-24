@@ -1,6 +1,6 @@
 settings:
-	# these are intentionally odd, since it's to make sure that
-	# the Workspace class is recognising them correctly
+    # these are intentionally odd, since it's to make sure that
+    # the Workspace class is recognising them correctly
     paths:
         definitions: ~/.notpg
     generated_projects_folder: not_generated_projects
