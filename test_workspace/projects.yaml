@@ -3,6 +3,6 @@ settings:
     # the Workspace class is recognising them correctly
     definitions_dir:
         - ~/.notpg
-    generated_projects_folder:
+    export_dir:
         - not_generated_projects
 
