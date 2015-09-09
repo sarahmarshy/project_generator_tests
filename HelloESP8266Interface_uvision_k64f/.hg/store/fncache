@@ -1,0 +1,8 @@
+data/NetworkSocketAPI.lib.i
+data/ATParser.lib.i
+data/main.cpp.i
+data/WiFiRadioInterface.lib.i
+data/DnsQuery.lib.i
+data/wifi_interface.lib.i
+data/mbed.bld.i
+data/ESP8266Interface.lib.i

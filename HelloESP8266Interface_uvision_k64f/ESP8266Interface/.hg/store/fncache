@@ -1,0 +1,14 @@
+data/ESP8266Interface.cpp.i
+data/ESP8266Interface.h.i
+data/sockets/WifiSocketInterface.cpp.i
+data/ESP8266Interface.cpp.orig.i
+data/ESP8266.lib.i
+data/sockets/f1.txt.i
+data/driver.lib.i
+data/WiFiRadioInterface.cpp.i
+data/sockets/WifiSocketInterface.h.i
+data/DnsQuery.lib.i
+data/ESP8266.lib.orig.i
+data/WiFiRadioInterface.h.i
+data/WiFiInterface.h.i
+data/WiFiInterface.cpp.i

@@ -1,0 +1,18 @@
+macros:
+     - TARGET_KPSDK_MCUS 
+     - TARGET_FF_ARDUINO 
+     - TOOLCHAIN_GCC_ARM 
+     - TOOLCHAIN_GCC 
+     - CPU_MK64FN1M0VMD12 
+     - TARGET_FRDM 
+     - TARGET_CORTEX_M 
+     - __FPU_PRESENT=1 
+     - TARGET_KPSDK_CODE 
+     - TARGET_M4 
+     - __MBED__=1 
+     - TARGET_K64F 
+     - TARGET_Freescale 
+     - __CORTEX_M4 
+     - FSL_RTOS_MBED 
+     - TARGET_MCU_K64F 
+     - ARM_MATH_CM4 

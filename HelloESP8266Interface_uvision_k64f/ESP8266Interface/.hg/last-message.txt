@@ -1,0 +1,1 @@
+DnsQuery Structrue Change

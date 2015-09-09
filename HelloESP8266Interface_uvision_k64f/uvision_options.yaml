@@ -1,0 +1,6 @@
+C:
+    MiscControls:
+        - '--gnu'
+ASM:
+    MiscControls:
+        - '--cpreproc'

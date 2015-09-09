@@ -1,8 +1,0 @@
-settings:
-    # these are intentionally odd, since it's to make sure that
-    # the Workspace class is recognising them correctly
-    definitions_dir:
-        - ~/.notpg
-    export_dir:
-        - not_generated_projects
-
